@@ -11,25 +11,10 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/(demo)/exambles/user/page": [
+    "/not-found": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/(demo)/exambles/user/page.js"
-    ],
-    "/(demo)/exambles/user/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(demo)/exambles/user/layout.js"
-    ],
-    "/(demo)/exambles/user/[...slug]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(demo)/exambles/user/[...slug]/page.js"
-    ],
-    "/(demo)/exambles/mui/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(demo)/exambles/mui/page.js"
+      "static/chunks/app/not-found.js"
     ]
   }
 }
