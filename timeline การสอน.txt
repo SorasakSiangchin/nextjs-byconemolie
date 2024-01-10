@@ -1,0 +1,6 @@
+- ในความรู้เกี่ยวกับ next
+- สร้าง project
+- hook form
+- next api 
+- redux , redux toolkti
+- Thunk
